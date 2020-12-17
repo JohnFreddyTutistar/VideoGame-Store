@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(-45deg,  #D21E1E, rgb(49, 12, 12), #D21E1E);
+    background-size: cover;
+}
+header{
+    background-image: url("../img/img1.1.png");
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+}
+#logo{
+    position: relative;
+    height: 30%;
+    margin-top: 8%;
+    width: 35%;
+}
+#carro{
+    width: 45px;
+    display: flex;
+    margin-left: 95%;
+}
